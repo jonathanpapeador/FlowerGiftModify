@@ -123,8 +123,8 @@ BODY {
   }
   .message-image,
   .message-video {
-    width: clamp(110px, 30vw, 160px);
-    height: clamp(110px, 30vw, 160px);
+    width: clamp(200px, 30vw, 160px);
+    height: clamp(150px, 30vw, 160px);
   }
   .flower-message {
     width: 90vw;
